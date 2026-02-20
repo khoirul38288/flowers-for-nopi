@@ -3,7 +3,7 @@ onload = () => {
   const c = setTimeout(() => {
     document.body.classList.remove("not-loaded");
 
-    const titles = ('NOPI ANJING 💐💐💐').split('')
+    const titles = ('This Flower Is For You').split('')
     const titleElement = document.getElementById('title');
     let index = 0;
 
